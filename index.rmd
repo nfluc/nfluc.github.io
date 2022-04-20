@@ -1,0 +1,51 @@
+---
+title: "Norman F. Luc | 陸鋒泰"
+image: "images/profile.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/norman-luc-7282b565/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=D129g4sAAAAJ&hl=en&oi=ao"
+  - label: My Lab
+    url: "https://senguptalab.com/"
+  - label: Twitter
+    url: "https://twitter.com/nfluc"
+  - label: Photography
+    url: "photos.html" 
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+I'm a PhD candidate in Biomedical Engineering at Case Western Reserve University in the lab of Dr. Anirban Sen Gupta. My research focuses on designing various nanoparticles and biomaterials that mimic platelets for hemostasis and wound healing. At the moment, I'm open to a career in academia, industry, or possibly science policy. In my spare time, I like to cook, bake, explore, and take photos, some of which I've featured here. I also play chess, poker, Pokemon Go, and ultimate Frisbee, and I love keeping up to date on sports, news, and politics.
+
+## Education
+
+**Case Western Reserve University** | Cleveland, OH
+
+Ph.D in Biomedical Engineering (in progress) | January 2020 - present
+
+**Case Western Reserve University** | Cleveland, OH
+
+M.S. in Medical Physiology | August 2016 - May 2018
+
+**Washington University in St. Louis** | St. Louis, MO
+
+B.S. in Biomedical Engineering | August 2010 - May 2014
+
+## Selected Publications
+
+**Platelet-mimicking procoagulant nanoparticles augment hemostasis in animal models of bleedin**
+
+UDS Sekhon, K Swingle, A Girish, **NF Luc**, M de la Fuente, J Alvikas, S Haldeman, A Hassoune, K Shah, Y Kim, S Eppell, J Capadona, A Shoffstall, MD Neal, W Li, M Nieman, A Sen Gupta
+
+Science Translational Medicine 14 (629) | 2022 | [DOI](https://doi.org/10.1126/scitranslmed.abb8975)
+
+**Bioinspired artificial platelets: past, present and future**
+
+**NF Luc**, N Rohner, A Girish, UDS Sekhon, MD Neal, A Sen Gupta
+
+Platelets 33 (1), 35-47 | 2022 | [DOI](https://doi.org/10.1080/09537104.2021.1967916)
+
+
